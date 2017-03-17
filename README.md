@@ -1,1 +1,1 @@
-# spring-boot-angularjs-security
+# crud-spring-boot-angularjs
